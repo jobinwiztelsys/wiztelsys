@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Multi Apps</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+<string name="homeLbl">Home</string>
+<string name="descconverterimgbtn"> these are image buttons</string>
+    
+</resources>
